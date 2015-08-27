@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Sierra's Maker Blog
 locale:           en_US
 url:
 
@@ -26,12 +26,12 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
+  name: Sierra Bufe
   avatar: bio-photo.jpg
   bio: "Describe your self."
   email:
   disqus-shortname:
-  twitter: #username
+  twitter: sbufe
   facebook: #username
   google:
     plus: #username
@@ -40,7 +40,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: sbufe
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
