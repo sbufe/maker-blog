@@ -27,7 +27,7 @@ image:
 
 ## Development environment
 
-Sublime Text 2
+[Sublime Text 2](http://www.sublimetext.com/) is a popular code editor with uniquely powerful features such as multiple cursors.  ("What???")  It's free to use without limitation and runs on Mac, Windows, or Linux.  Sublime Text 3 is in beta.
 
 Github
 
@@ -39,7 +39,7 @@ Jekyll
 
 Sass
 
-YAML
+YAML is a way of storing structured data in a plain text file.  It's similar to the notion of using an XML file to hold a data structure, but the syntax is clean and minimal.
 
 Mark Down
 
@@ -140,20 +140,6 @@ url:
 
 Google Analytics UA and Webmaster Tool verification tags can be entered under `owner` in `_config.yml`. For more information on obtaining these meta tags check [Google Webmaster Tools](http://support.google.com/webmasters/bin/answer.py?hl=en&answer=35179) and [Bing Webmaster Tools](https://ssl.bing.com/webmaster/configure/verify/ownership) support.
 
-### Navigation Links
-
-To set what links appear in the top navigation edit `_data/navigation.yml`. Use the following format to set the URL and title for as many links as you'd like. *External links will open in a new window.*
-
-{% highlight yaml %}
-- title: Portfolio
-  url: /portfolio/
-
-- title: Made Mistakes
-  url: http://mademistakes.com
-{% endhighlight %}
-
----
-
 ## Adding New Content with Octopress
 
 While completely optional, I've included Octopress and some starter templates to automate the creation of new posts and pages. To take advantage of it start by installing the [Octopress](https://github.com/octopress/octopress) gem if it isn't already.
@@ -239,40 +225,6 @@ Feature and thumbnail images are used by [Open Graph](https://developers.faceboo
 **Pro-Tip**: You need to [apply for Twitter Cards](https://dev.twitter.com/docs/cards) before they will begin showing up when links to your site are shared.
 {:.notice}
 
-### Author Override
-
-By making use of data files you can assign different authors for each post.
-
-Start by modifying `authors.yml` file in the `_data` folder and add your authors using the following format.
-
-{% highlight yaml %}
-# Authors
-
-billy_rick:
-  name: Billy Rick
-  web: http://thewhip.com
-  email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
-  avatar: bio-photo-2.jpg
-  twitter: extravagantman
-  google:
-    plus: +BillyRick
-
-cornelius_fiddlebone:
-  name: Cornelius Fiddlebone
-  email: cornelius@thewhip.com
-  bio: "I ordered what?"
-  avatar: bio-photo.jpg
-  twitter: rhymeswithsackit
-  google:
-    plus: +CorneliusFiddlebone
-{% endhighlight %}
-
-To assign Billy Rick as an author for our post. We'd add the following YAML front matter to a post:
-
-{% highlight yaml %}
-author: billy_rick
-{% endhighlight %}
 
 ### Kramdown Table of Contents
 

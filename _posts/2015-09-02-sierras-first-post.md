@@ -3,9 +3,9 @@ layout: post
 title: "Sierra's First Post"
 author: sierra_bufe
 modified:
-excerpt: "A handy list of free resources to use as you get started."
+excerpt: "Allow myself to introduce...myself."
 tags: []
-comments: true
+comments: false
 ---
 
 ###Retooling at age 42
