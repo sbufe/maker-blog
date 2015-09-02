@@ -8,11 +8,11 @@ sierra_bufe:
   avatar: bio-photo-2.jpg
   twitter: sbufe
 
-cornelius_fiddlebone:
-  name: Cornelius Fiddlebone
-  email: cornelius@thewhip.com
-  bio: "I ordered what?"
-  avatar: bio-photo.jpg
-  twitter: rhymeswithsackit
-  google:
-    plus: CorneliusFiddlebone
+# cornelius_fiddlebone:
+#   name: Cornelius Fiddlebone
+#   email: cornelius@thewhip.com
+#   bio: "I ordered what?"
+#   avatar: bio-photo.jpg
+#   twitter: rhymeswithsackit
+#   google:
+#     plus: CorneliusFiddlebone

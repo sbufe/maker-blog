@@ -28,13 +28,22 @@ image:
 ## Development environment
 
 Sublime Text 2
+
 Github
 
 ## Server technologies
 
 ### Preprocessors
+
 Jekyll
+
 Sass
+
+YAML
+
+Mark Down
+
+
 
 **Pro-tip:** Delete the `gh-pages` branch after cloning and start fresh by branching off `master`. There is a bunch of garbage in `gh-pages` used for the theme's demo site that I'm guessing you won't want.
 {: .notice}
