@@ -17,12 +17,13 @@ image:
 
 ## Lorem Ipsum
 
-[Hipster Ipsum](http://hpstipsum.com) is a modern twist on the traditional Latin nonsense filler used to test print or display layouts.
+[Hipster Ipsum](http://hipsum.co) is a modern twist on the traditional Latin nonsense filler used to test print or display layouts.
 
 ## Peer groups
 
-[Girl Develop It](http://girldevelopit.com)
-[Hacker Spaces](http://blah.com)
+[Girl Develop It](https://www.girldevelopit.com/chapters)
+
+[Hacker Spaces](http://www.hackerspaces.org/).  Many thanks to the Boulder Hackerspace, AKA [Solid State Depot](http://boulderhackerspace.com/).
 
 ## Development environment
 
@@ -34,22 +35,6 @@ Github
 ### Preprocessors
 Jekyll
 Sass
-
-
-
-1. Fork the [Minimal Mistakes repo](http://github.com/mmistakes/minimal-mistakes/fork).
-2. Clone the repo you just forked and rename it.
-3. [Install Bundler](http://bundler.io) `gem install bundler` and Run `bundle install` to install all dependencies (Jekyll, [Jekyll-Sitemap](https://github.com/jekyll/jekyll-sitemap), [Octopress](https://github.com/octopress/octopress), etc)
-4. Update `config.yml`, add navigation, and replace demo posts and pages with your own. Full details below.
-
-If you want to use Minimal Mistakes with an existing Jekyll site follow these steps:
-
-1. [Download Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes/archive/master.zip) and unzip.
-2. Rename `minimal-mistakes-master` to something meaningful ie: `new-site`
-3. Run `bundle install` to install all dependencies (Jekyll, [Jekyll-Sitemap](https://github.com/jekyll/jekyll-sitemap), [Octopress](https://github.com/octopress/octopress), etc)
-4. Remove demo posts/pages and replace with your own posts, pages, and any other content you want to move over.
-5. Update posts' and pages' YAML to match variables used by Minimal Mistakes. Full details below.
-6. Update `_config.yml` and add navigation links. Full details below.
 
 **Pro-tip:** Delete the `gh-pages` branch after cloning and start fresh by branching off `master`. There is a bunch of garbage in `gh-pages` used for the theme's demo site that I'm guessing you won't want.
 {: .notice}
