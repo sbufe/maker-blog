@@ -13,21 +13,21 @@ image:
 
 ## Graphics and Fonts
 
-[WEGraphics](http://wegraphics.net/tag/free) offers beautiful, free and paid backgrounds, web fonts, and plug-ins for Photoshop and Illustrator.
+[**WEGraphics**](http://wegraphics.net/tag/free) offers beautiful, free and paid backgrounds, web fonts, and plug-ins for Photoshop and Illustrator.
 
 ## Lorem Ipsum
 
-[Hipster Ipsum](http://hipsum.co) is a modern twist on the traditional Latin nonsense filler used to set up print or display layouts.
+[**Hipster Ipsum**](http://hipsum.co) is a modern twist on the traditional Latin nonsense filler used to set up print or display layouts.
 
 ## Peer groups
 
-**[Girl Develop It](https://www.girldevelopit.com/chapters)** Many thanks to GDI Boulder founder [Cara Jo Miller](https://www.linkedin.com/in/carajomiller) for introducing me to GitHub Pages, Markdown, Jekyll, and the Minimal Mistakes theme.
+[**Girl Develop It**](https://www.girldevelopit.com/chapters) Many thanks to GDI Boulder founder [Cara Jo Miller](https://www.linkedin.com/in/carajomiller) for introducing me to GitHub Pages, Markdown, Jekyll, and the Minimal Mistakes theme.
 
 [**Hacker Spaces**](http://www.hackerspaces.org/).  Many thanks to the Boulder Hackerspace, AKA [Solid State Depot](http://boulderhackerspace.com/).
 
 ## Development environment
 
-[Sublime Text 2](http://www.sublimetext.com/) is a popular code editor with uniquely powerful features such as multiple cursors.  ("Say what?")  It's free to use without limitation and runs on Mac, Windows, or Linux.  Sublime Text 3 is in beta.
+[**Sublime Text 2**](http://www.sublimetext.com/) is a popular code editor with uniquely powerful features such as multiple cursors.  ("Say what?")  It's free to use without limitation and runs on Mac, Windows, or Linux.  Sublime Text 3 is in beta.
 
 Github
 
@@ -50,22 +50,6 @@ Many thanks to [Michael Rose](https://mademistakes.com/) for the free use of his
 
 **Pro-tip:** Delete the `gh-pages` branch after cloning and start fresh by branching off `master`. There is a bunch of garbage in `gh-pages` used for the theme's demo site that I'm guessing you won't want.
 {: .notice}
-
----
-
-## Running Jekyll
-
-If `jekyll build` and `jekyll serve` throw errors you may have to run Jekyll with `bundled exec` instead.
-
-> In some cases, running executables without bundle exec may work, if the executable happens to be installed in your system and does not pull in any gems that conflict with your bundle.
->
->However, this is unreliable and is the source of considerable pain. Even if it looks like it works, it may not work in the future or on another machine.
-
-{% highlight text %}
-bundle exec jekyll build
-
-bundle exec jekyll serve
-{% endhighlight %}
 
 ---
 
