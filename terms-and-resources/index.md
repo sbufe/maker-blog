@@ -104,11 +104,6 @@ A quick checklist of the files you'll want to edit to get up and running.
 
 `_config.yml` is your friend. Open it up and personalize it. Most variables are self explanatory but here's an explanation of each if needed:
 
-#### title
-
-The title of your site... shocker!
-
-Example `title: My Awesome Site`
 
 #### url
 
