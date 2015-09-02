@@ -10,16 +10,14 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+ Put paragraph here describing About Me wrt Sierra.  Make it two or three sentences long.  Talk about values like meticulous care for detail.
 
-## Minimal Mistakes is all about:
+## Static and preprocessed web sites:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
+* Using responsive themes, sites look beautiful on every platform
+* Jekyll and Sass preprocessing separate style from content, making updates to content a breeze
+* Suitable for blogs, professional portfolios, and brochure sites
+* Community engagement through the Disqus comments platform
+* Free hosting on Github Pages
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Make this button contact Sierra</a> or launch a portfolio, or download a resume file
