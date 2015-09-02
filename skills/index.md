@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: About Sierra and her skills
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: false
@@ -19,5 +19,6 @@ image:
 * Suitable for blogs, professional portfolios, and brochure sites
 * Community engagement through the Disqus comments platform
 * Free hosting on Github Pages
+* See this very site for an example!
 
 <a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Make this button contact Sierra</a> or launch a portfolio, or download a resume file
