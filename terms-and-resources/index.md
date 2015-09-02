@@ -23,7 +23,7 @@ image:
 
 **[Girl Develop It](https://www.girldevelopit.com/chapters)** Many thanks to GDI Boulder founder [Cara Jo Miller](https://www.linkedin.com/in/carajomiller) for introducing me to GitHub Pages, Markdown, Jekyll, and the Minimal Mistakes theme.
 
-[Hacker Spaces](http://www.hackerspaces.org/).  Many thanks to the Boulder Hackerspace, AKA [Solid State Depot](http://boulderhackerspace.com/).
+[**Hacker Spaces**](http://www.hackerspaces.org/).  Many thanks to the Boulder Hackerspace, AKA [Solid State Depot](http://boulderhackerspace.com/).
 
 ## Development environment
 
@@ -43,6 +43,9 @@ Github
 
 **YAML** is a way of storing structured data in a plain text file.  It's similar to the notion of using an XML file to hold a data structure, but the syntax is clean and minimal.
 
+## Themes
+
+Many thanks to [Michael Rose](https://mademistakes.com/) for the free use of his [Minimal Mistakes](https://github.com/mmistakes/minimal-mistakes) Jekyll theme.
 
 
 **Pro-tip:** Delete the `gh-pages` branch after cloning and start fresh by branching off `master`. There is a bunch of garbage in `gh-pages` used for the theme's demo site that I'm guessing you won't want.
