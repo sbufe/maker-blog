@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Handy Resources
+title: Handy Terms & Resources
 modified: 2015-09-02T13:23:02.362000-04:00
-excerpt: "A simplified list of helpful resources for getting started"
+excerpt: "A simplified list of helpful buzzwords and resources for getting started"
 image:
   feature: sample-image-3.jpg
   credit: WeGraphics
@@ -17,11 +17,11 @@ image:
 
 ## Lorem Ipsum
 
-[Hipster Ipsum](http://hipsum.co) is a modern twist on the traditional Latin nonsense filler used to test print or display layouts.
+[Hipster Ipsum](http://hipsum.co) is a modern twist on the traditional Latin nonsense filler used to set up print or display layouts.
 
 ## Peer groups
 
-[Girl Develop It](https://www.girldevelopit.com/chapters)
+[Girl Develop It](https://www.girldevelopit.com/chapters).  Many thanks to GDI Boulder founder [Cara Jo Miller](https://www.linkedin.com/in/carajomiller) for introducing me to GitHub Pages, Markdown, Jekyll, and the Minimal Mistakes template.
 
 [Hacker Spaces](http://www.hackerspaces.org/).  Many thanks to the Boulder Hackerspace, AKA [Solid State Depot](http://boulderhackerspace.com/).
 
