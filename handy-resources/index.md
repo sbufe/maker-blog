@@ -27,7 +27,7 @@ image:
 
 ## Development environment
 
-[Sublime Text 2](http://www.sublimetext.com/) is a popular code editor with uniquely powerful features such as multiple cursors.  ("What???")  It's free to use without limitation and runs on Mac, Windows, or Linux.  Sublime Text 3 is in beta.
+[Sublime Text 2](http://www.sublimetext.com/) is a popular code editor with uniquely powerful features such as multiple cursors.  ("Say what?")  It's free to use without limitation and runs on Mac, Windows, or Linux.  Sublime Text 3 is in beta.
 
 Github
 
