@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Theme Setup
-modified: 2014-07-31T13:23:02.362000-04:00
-excerpt: "Instructions on how to install and customize the Jekyll theme Minimal Mistakes."
+title: Handy Resources
+modified: 2015-09-02T13:23:02.362000-04:00
+excerpt: "A simplified list of helpful resources for getting started"
 image:
   feature: sample-image-3.jpg
   credit: WeGraphics
