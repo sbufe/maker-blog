@@ -35,13 +35,13 @@ Github
 
 ### Preprocessors
 
-Jekyll
+**Jekyll** is a server-side preprocessor which can render .md (markdown) files and style templates into ready-to-serve html files, which are then cached as static files on the server.
 
-Sass
+**Sass**
 
-YAML is a way of storing structured data in a plain text file.  It's similar to the notion of using an XML file to hold a data structure, but the syntax is clean and minimal.
+**YAML** is a way of storing structured data in a plain text file.  It's similar to the notion of using an XML file to hold a data structure, but the syntax is clean and minimal.
 
-Mark Down
+**Mark Down** allows for writing copy in plain text with very simple markups for headers, bold, or links.  It requires processing to apply style.  Again, very clean and minimal.
 
 
 
