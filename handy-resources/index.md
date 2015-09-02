@@ -21,7 +21,7 @@ image:
 
 ## Peer groups
 
-[Girl Develop It](https://www.girldevelopit.com/chapters).  Many thanks to GDI Boulder founder [Cara Jo Miller](https://www.linkedin.com/in/carajomiller) for introducing me to GitHub Pages, Markdown, Jekyll, and the Minimal Mistakes template.
+**[Girl Develop It](https://www.girldevelopit.com/chapters)** Many thanks to GDI Boulder founder [Cara Jo Miller](https://www.linkedin.com/in/carajomiller) for introducing me to GitHub Pages, Markdown, Jekyll, and the Minimal Mistakes theme.
 
 [Hacker Spaces](http://www.hackerspaces.org/).  Many thanks to the Boulder Hackerspace, AKA [Solid State Depot](http://boulderhackerspace.com/).
 
