@@ -13,9 +13,29 @@ image:
 
 ## Graphics and Fonts
 
-Minimal Mistakes now requires [Jekyll](http://jekyllrb.com/) 2.2+. Make sure to run `gem update jekyll` if you aren't on the latest version or `gem install jekyll` if this is your first time installing it.
+[WEGraphics](http://wegraphics.net/tag/free) offers beautiful, free and paid backgrounds, web fonts, and plug-ins for Photoshop and Illustrator.
 
-If you are creating a new Jekyll site using Minimal Mistakes follow these steps:
+## Lorem Ipsum
+
+[Hipster Ipsum](http://hpstipsum.com) is a modern twist on the traditional Latin nonsense filler used to test print or display layouts.
+
+## Peer groups
+
+[Girl Develop It](http://girldevelopit.com)
+[Hacker Spaces](http://blah.com)
+
+## Development environment
+
+Sublime Text 2
+Github
+
+## Server technologies
+
+### Preprocessors
+Jekyll
+Sass
+
+
 
 1. Fork the [Minimal Mistakes repo](http://github.com/mmistakes/minimal-mistakes/fork).
 2. Clone the repo you just forked and rename it.
