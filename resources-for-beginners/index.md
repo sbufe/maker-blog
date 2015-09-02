@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Handy Terms & Resources
+title: Hot Buzzwords & Handy Resources
 modified: 2015-09-02T13:23:02.362000-04:00
-excerpt: "A simplified list of helpful buzzwords and resources for getting started"
+excerpt: "A simplified list of helpful terms and resources for getting started"
 image:
   feature: sample-image-3.jpg
   credit: WeGraphics
