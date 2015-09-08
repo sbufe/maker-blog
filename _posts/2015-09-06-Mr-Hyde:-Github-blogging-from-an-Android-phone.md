@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Github blogging from an Android phone
+title: Mr. Hyde: Github blogging from an Android phone
 author: sierra_bufe
 link: https://play.google.com/store/apps/details?id=org.faudroids.mrhyde
 ---
